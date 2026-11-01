@@ -51,7 +51,7 @@ onBeforeUnmount(() => io?.disconnect())
 </template>
 
 <style scoped>
-.side { background: var(--rose); border-right: var(--bw) solid var(--ink); border-radius: 4px 0 0 4px; }
+.side { min-width: 0; background: var(--rose); border-right: var(--bw) solid var(--ink); border-radius: 4px 0 0 4px; }
 .side__inner {
   position: sticky; top: 0; height: 100vh; max-height: 100%;
   padding: 22px 14px; display: flex; flex-direction: column; gap: 26px;
@@ -77,7 +77,7 @@ nav { display: grid; gap: 4px; }
   .side__inner { position: static; height: auto; flex-direction: row; align-items: center; gap: 12px; padding: 10px 12px; overflow: hidden; }
   .brand__name, .side__foot { display: none; }
   .brand { padding: 0; }
-  nav { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  nav { min-width: 0; flex: 1; display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
   nav::-webkit-scrollbar { display: none; }
   .nav-link { white-space: nowrap; padding: 6px 10px; background: var(--surface); border-color: var(--ink); }
 }
