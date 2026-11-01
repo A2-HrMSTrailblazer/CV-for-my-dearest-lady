@@ -11,7 +11,7 @@
   "links": [],
   "stats": [
     {
-      "value": "6",
+      "value": "3",
       "label": "languages"
     },
     {
@@ -49,7 +49,7 @@
       "end": "Mar 2026",
       "summary": "Handled human resources for the Education Department of a youth-led nonprofit.",
       "certificate": "Volunteer certificate",
-      "image": "",
+      "image": "content/x2-mvxovkfl.jpg",
       "onResume": true
     },
     {
@@ -128,7 +128,7 @@
       "id": "l3",
       "name": "German",
       "level": "CEFR B1",
-      "score": 3
+      "score": 1
     },
     {
       "id": "l4",
