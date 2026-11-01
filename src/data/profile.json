@@ -1,0 +1,161 @@
+{
+  "name": "Ei Ei Mon",
+  "nickname": "Mabel Eleanor Mon",
+  "status": "Economics, year 1",
+  "bio": "Economics student at Chiang Mai University, also studying Business Administration online. I speak six languages, work with Excel and Python for data analysis, and have led people and projects in youth education.",
+  "email": "eem19.eieimon@gmail.com",
+  "phone": "0624701844",
+  "showPhone": false,
+  "location": "Chiang Mai, Thailand",
+  "photo": "",
+  "links": [],
+  "stats": [
+    {
+      "value": "6",
+      "label": "languages"
+    },
+    {
+      "value": "2",
+      "label": "degrees in progress"
+    },
+    {
+      "value": "21 mo",
+      "label": "as HR officer"
+    },
+    {
+      "value": "C1",
+      "label": "English (CEFR)"
+    }
+  ],
+  "experience": [
+    {
+      "id": "x1",
+      "kind": "research",
+      "role": "Economic perspective research",
+      "org": "FinTech Hackathon",
+      "start": "Oct 2026",
+      "end": "",
+      "summary": "Researched the economic side of the team’s hackathon entry.",
+      "certificate": "",
+      "image": "",
+      "onResume": true
+    },
+    {
+      "id": "x2",
+      "kind": "people",
+      "role": "Human Resource Officer, Education Department",
+      "org": "For The Future Myanmar",
+      "start": "Jul 2024",
+      "end": "Mar 2026",
+      "summary": "Handled human resources for the Education Department of a youth-led nonprofit.",
+      "certificate": "Volunteer certificate",
+      "image": "",
+      "onResume": true
+    },
+    {
+      "id": "x3",
+      "kind": "science",
+      "role": "Co-Leader, STEM project",
+      "org": "Igniting Young Minds: Hands-on STEM Exploration",
+      "start": "Jan 2025",
+      "end": "Jul 2025",
+      "summary": "Co-led a hands-on STEM exploration project for young learners.",
+      "certificate": "Project certificate",
+      "image": "",
+      "onResume": true
+    }
+  ],
+  "education": [
+    {
+      "id": "e1",
+      "kind": "degree",
+      "short": "CMU Economics",
+      "title": "Bachelor of Science in Economics",
+      "school": "Chiang Mai University",
+      "start": "Jun 2026",
+      "end": "expected 2030",
+      "certificate": "",
+      "image": ""
+    },
+    {
+      "id": "e2",
+      "kind": "degree",
+      "short": "UoPeople Business",
+      "title": "Bachelor of Science in Business Administration",
+      "school": "University of the People",
+      "start": "Nov 2026",
+      "end": "expected 2030",
+      "certificate": "",
+      "image": ""
+    },
+    {
+      "id": "e3",
+      "kind": "test",
+      "short": "SAT",
+      "title": "Scholastic Assessment Test (SAT)",
+      "school": "College Board",
+      "start": "7 Dec 2024",
+      "end": "",
+      "certificate": "SAT score report",
+      "image": ""
+    },
+    {
+      "id": "e4",
+      "kind": "test",
+      "short": "GED",
+      "title": "General Educational Development (GED)",
+      "school": "High school equivalency",
+      "start": "12 Jun 2024",
+      "end": "",
+      "certificate": "GED diploma",
+      "image": ""
+    }
+  ],
+  "languages": [
+    {
+      "id": "l1",
+      "name": "Burmese",
+      "level": "Native",
+      "score": 6
+    },
+    {
+      "id": "l2",
+      "name": "English",
+      "level": "CEFR C1",
+      "score": 5
+    },
+    {
+      "id": "l3",
+      "name": "German",
+      "level": "CEFR B1",
+      "score": 3
+    },
+    {
+      "id": "l4",
+      "name": "Japanese",
+      "level": "JLPT N3",
+      "score": 3
+    },
+    {
+      "id": "l5",
+      "name": "Chinese",
+      "level": "HSK 3",
+      "score": 2
+    },
+    {
+      "id": "l6",
+      "name": "Thai",
+      "level": "CEFR A2",
+      "score": 2
+    }
+  ],
+  "programming": [
+    "Python (data analysis)"
+  ],
+  "skills": [
+    "Excel (advanced)",
+    "Accounting",
+    "Research",
+    "Data analysis and analytics"
+  ]
+}
